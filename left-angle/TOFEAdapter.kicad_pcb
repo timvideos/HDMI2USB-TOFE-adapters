@@ -1500,7 +1500,7 @@
   (gr_line (start 231.16286 159.8041) (end 162.25 159.8041) (angle 90) (layer Edge.Cuts) (width 0.381))
   (gr_line (start 231.1654 177.2412) (end 231.1654 159.80664) (angle 90) (layer Edge.Cuts) (width 0.381))
   (gr_line (start 225.25 177.25) (end 225.25 177.5) (angle 90) (layer Edge.Cuts) (width 0.381))
-  (gr_text "NUMATO LAB\nOpsis TOFE Adapter\nwww.numato.com" (at 195.1482 173.9646) (layer F.SilkS)
+  (gr_text "NUMATO LAB\nTOFE 8x Left Adapter\nwww.numato.com" (at 195.1482 173.9646) (layer F.SilkS)
     (effects (font (size 1.143 1.143) (thickness 0.28575)) (justify left))
   )
   (gr_line (start 185.25 188.15) (end 174 188.15) (angle 90) (layer Edge.Cuts) (width 0.381) (tstamp 56371D90))
