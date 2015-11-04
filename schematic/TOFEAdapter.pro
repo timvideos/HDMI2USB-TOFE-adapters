@@ -1,4 +1,4 @@
-update=03/11/2015 04:41:27 PM
+update=Wed 04 Nov 2015 17:49:05 AEDT
 version=1
 last_client=eeschema
 [general]
@@ -69,6 +69,5 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=TOFEAdapter
-LibName32=TOFEAdapter-cache
-LibName33=TOFE
+LibName31=TOFEAdapter-cache
+LibName32=TOFE
