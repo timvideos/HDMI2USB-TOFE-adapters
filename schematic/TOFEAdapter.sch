@@ -51,8 +51,6 @@ Text Label 4500 2200 0    60   ~ 12
 VCC3V3
 Text Label 5450 2200 2    60   ~ 12
 VCC12V
-Text Notes 4450 1950 0    60   ~ 12
-TOFE 8x PCB
 Text Label 3300 4050 0    60   ~ 12
 B14
 Text Label 3300 4150 0    60   ~ 12
@@ -535,8 +533,6 @@ Text Label 11100 6350 2    60   ~ 12
 A35
 Text Label 9500 2200 0    60   ~ 12
 VCC3V3
-Text Notes 9500 1950 0    60   ~ 12
-TOFE 8x Connector
 Text Label 8300 4050 0    60   ~ 12
 B14
 Text Label 8300 4150 0    60   ~ 12
