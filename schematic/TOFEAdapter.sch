@@ -118,43 +118,7 @@ A43
 Wire Wire Line
 	3900 2850 3800 2850
 Wire Wire Line
-	3800 2850 3800 3150
-Wire Wire Line
-	3800 3150 3800 3950
-Wire Wire Line
-	3800 3950 3800 4250
-Wire Wire Line
-	3800 4250 3800 4450
-Wire Wire Line
-	3800 4450 3800 4850
-Wire Wire Line
-	3800 4850 3800 4950
-Wire Wire Line
-	3800 4950 3800 5250
-Wire Wire Line
-	3800 5250 3800 5350
-Wire Wire Line
-	3800 5350 3800 5650
-Wire Wire Line
-	3800 5650 3800 5950
-Wire Wire Line
-	3800 5950 3800 6350
-Wire Wire Line
-	3800 6350 3800 6450
-Wire Wire Line
-	3800 6450 3800 6750
-Wire Wire Line
-	3800 6750 3800 6850
-Wire Wire Line
-	3800 6850 3800 7150
-Wire Wire Line
-	3800 7150 3800 7250
-Wire Wire Line
-	3800 7250 3800 7550
-Wire Wire Line
-	3800 7550 3800 7750
-Wire Wire Line
-	3800 7750 3800 8300
+	3800 2850 3800 8300
 Wire Wire Line
 	3800 3150 3900 3150
 Wire Wire Line
@@ -211,41 +175,7 @@ Connection ~ 3800 7550
 Wire Wire Line
 	5600 2850 5700 2850
 Wire Wire Line
-	5700 2850 5700 3850
-Wire Wire Line
-	5700 3850 5700 4150
-Wire Wire Line
-	5700 4150 5700 4450
-Wire Wire Line
-	5700 4450 5700 4750
-Wire Wire Line
-	5700 4750 5700 5050
-Wire Wire Line
-	5700 5050 5700 5150
-Wire Wire Line
-	5700 5150 5700 5450
-Wire Wire Line
-	5700 5450 5700 5550
-Wire Wire Line
-	5700 5550 5700 5850
-Wire Wire Line
-	5700 5850 5700 6250
-Wire Wire Line
-	5700 6250 5700 6550
-Wire Wire Line
-	5700 6550 5700 6650
-Wire Wire Line
-	5700 6650 5700 6950
-Wire Wire Line
-	5700 6950 5700 7050
-Wire Wire Line
-	5700 7050 5700 7350
-Wire Wire Line
-	5700 7350 5700 7450
-Wire Wire Line
-	5700 7450 5700 7750
-Wire Wire Line
-	5700 7750 5700 8300
+	5700 8300 5700 2850
 Wire Wire Line
 	5700 4150 5600 4150
 Wire Wire Line
@@ -294,9 +224,7 @@ Wire Wire Line
 	5700 7750 5600 7750
 Connection ~ 5700 7450
 Wire Wire Line
-	5700 8300 4700 8300
-Wire Wire Line
-	4700 8300 3800 8300
+	3800 8300 5700 8300
 Connection ~ 3800 7750
 Connection ~ 5700 7750
 Wire Wire Line
@@ -396,23 +324,17 @@ Wire Wire Line
 Wire Wire Line
 	3700 3450 3900 3450
 Wire Wire Line
-	3700 2300 3700 3250
-Wire Wire Line
-	3700 3250 3700 3450
+	3700 2300 3700 3450
 Wire Wire Line
 	3700 3250 3900 3250
 Wire Wire Line
 	5600 3350 5800 3350
 Wire Wire Line
-	5800 2300 5800 3350
-Wire Wire Line
-	5800 3350 5800 3450
+	5800 2300 5800 3450
 Wire Wire Line
 	5800 3450 5600 3450
 Wire Wire Line
-	3700 2300 4850 2300
-Wire Wire Line
-	4850 2300 5800 2300
+	3700 2300 5800 2300
 Connection ~ 5800 3350
 Connection ~ 3700 3250
 Wire Wire Line
@@ -427,11 +349,7 @@ Wire Wire Line
 Wire Wire Line
 	3850 2750 3900 2750
 Wire Wire Line
-	3850 2400 3850 2550
-Wire Wire Line
-	3850 2550 3850 2650
-Wire Wire Line
-	3850 2650 3850 2750
+	3850 2400 3850 2750
 Wire Wire Line
 	3850 2650 3900 2650
 Wire Wire Line
@@ -440,15 +358,11 @@ Connection ~ 3850 2650
 Wire Wire Line
 	5650 2750 5600 2750
 Wire Wire Line
-	5650 2400 5650 2650
-Wire Wire Line
-	5650 2650 5650 2750
+	5650 2400 5650 2750
 Wire Wire Line
 	5650 2650 5600 2650
 Wire Wire Line
-	3850 2400 5150 2400
-Wire Wire Line
-	5150 2400 5650 2400
+	3850 2400 5650 2400
 Connection ~ 5650 2650
 Connection ~ 3850 2550
 Wire Wire Line
@@ -600,43 +514,7 @@ A43
 Wire Wire Line
 	8900 2850 8800 2850
 Wire Wire Line
-	8800 2850 8800 3150
-Wire Wire Line
-	8800 3150 8800 3950
-Wire Wire Line
-	8800 3950 8800 4250
-Wire Wire Line
-	8800 4250 8800 4450
-Wire Wire Line
-	8800 4450 8800 4850
-Wire Wire Line
-	8800 4850 8800 4950
-Wire Wire Line
-	8800 4950 8800 5250
-Wire Wire Line
-	8800 5250 8800 5350
-Wire Wire Line
-	8800 5350 8800 5650
-Wire Wire Line
-	8800 5650 8800 5950
-Wire Wire Line
-	8800 5950 8800 6350
-Wire Wire Line
-	8800 6350 8800 6450
-Wire Wire Line
-	8800 6450 8800 6750
-Wire Wire Line
-	8800 6750 8800 6850
-Wire Wire Line
-	8800 6850 8800 7150
-Wire Wire Line
-	8800 7150 8800 7250
-Wire Wire Line
-	8800 7250 8800 7550
-Wire Wire Line
-	8800 7550 8800 7750
-Wire Wire Line
-	8800 7750 8800 8300
+	8800 2850 8800 8300
 Wire Wire Line
 	8800 3150 8900 3150
 Wire Wire Line
@@ -693,41 +571,7 @@ Connection ~ 8800 7550
 Wire Wire Line
 	10600 2850 10700 2850
 Wire Wire Line
-	10700 2850 10700 3850
-Wire Wire Line
-	10700 3850 10700 4150
-Wire Wire Line
-	10700 4150 10700 4450
-Wire Wire Line
-	10700 4450 10700 4750
-Wire Wire Line
-	10700 4750 10700 5050
-Wire Wire Line
-	10700 5050 10700 5150
-Wire Wire Line
-	10700 5150 10700 5450
-Wire Wire Line
-	10700 5450 10700 5550
-Wire Wire Line
-	10700 5550 10700 5850
-Wire Wire Line
-	10700 5850 10700 6250
-Wire Wire Line
-	10700 6250 10700 6550
-Wire Wire Line
-	10700 6550 10700 6650
-Wire Wire Line
-	10700 6650 10700 6950
-Wire Wire Line
-	10700 6950 10700 7050
-Wire Wire Line
-	10700 7050 10700 7350
-Wire Wire Line
-	10700 7350 10700 7450
-Wire Wire Line
-	10700 7450 10700 7750
-Wire Wire Line
-	10700 7750 10700 8300
+	10700 8300 10700 2850
 Wire Wire Line
 	10700 4150 10600 4150
 Wire Wire Line
@@ -776,9 +620,7 @@ Wire Wire Line
 	10700 7750 10600 7750
 Connection ~ 10700 7450
 Wire Wire Line
-	10700 8300 9700 8300
-Wire Wire Line
-	9700 8300 8800 8300
+	8800 8300 10700 8300
 Connection ~ 8800 7750
 Connection ~ 10700 7750
 Wire Wire Line
@@ -878,23 +720,17 @@ Wire Wire Line
 Wire Wire Line
 	8700 3450 8900 3450
 Wire Wire Line
-	8700 2300 8700 3250
-Wire Wire Line
-	8700 3250 8700 3450
+	8700 2300 8700 3450
 Wire Wire Line
 	8700 3250 8900 3250
 Wire Wire Line
 	10600 3350 10800 3350
 Wire Wire Line
-	10800 2300 10800 3350
-Wire Wire Line
-	10800 3350 10800 3450
+	10800 2300 10800 3450
 Wire Wire Line
 	10800 3450 10600 3450
 Wire Wire Line
-	8700 2300 9850 2300
-Wire Wire Line
-	9850 2300 10800 2300
+	8700 2300 10800 2300
 Connection ~ 10800 3350
 Connection ~ 8700 3250
 Wire Wire Line
@@ -909,11 +745,7 @@ Wire Wire Line
 Wire Wire Line
 	8850 2750 8900 2750
 Wire Wire Line
-	8850 2400 8850 2550
-Wire Wire Line
-	8850 2550 8850 2650
-Wire Wire Line
-	8850 2650 8850 2750
+	8850 2400 8850 2750
 Wire Wire Line
 	8850 2650 8900 2650
 Wire Wire Line
@@ -922,15 +754,11 @@ Connection ~ 8850 2650
 Wire Wire Line
 	10650 2750 10600 2750
 Wire Wire Line
-	10650 2400 10650 2650
-Wire Wire Line
-	10650 2650 10650 2750
+	10650 2400 10650 2750
 Wire Wire Line
 	10650 2650 10600 2650
 Wire Wire Line
-	8850 2400 10150 2400
-Wire Wire Line
-	10150 2400 10650 2400
+	8850 2400 10650 2400
 Connection ~ 10650 2650
 Connection ~ 8850 2550
 Wire Wire Line
