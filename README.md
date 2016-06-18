@@ -15,11 +15,27 @@ See the [KiCad website](http://kicad-pcb.org/) for more information on using it.
 
 More information about each board can be found in each directory.
 
+# [Left Angle Adapter](left-angle)
+
+Left angle adapter to allow TOFE boards to be mounted horizontally above the
+Opsis board.
+
+These adapters where shipped as a bonus to crowd funding backers who purchased
+an Opsis board and a TOFE expansion board.
+
+FIXME: Put image here.
+
+# [Male to Male](male-to-male)
+
+Adapter which has TOFE pins on both sides allowing two boards with TOFE sockets
+be connected together.
+
+FIXME: Put image here.
+
 ## Editing
 
-The designs in this repository was made using [KiCad](http://www.kicad-pcb.org/)
-version **2013-07-07 BZR 4022**
-([the version is Ubuntu Trusty](http://packages.ubuntu.com/trusty/kicad)).
+The designs in this repository was made using
+[KiCad](http://www.kicad-pcb.org/) version **4.0.2**.
 
 ## License
 
