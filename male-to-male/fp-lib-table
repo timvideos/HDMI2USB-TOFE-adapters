@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name TOFE_8X_Pins)(type KiCad)(uri ${KIPRJMOD}/../libraries/TOFE_8X_Pins)(options "")(descr ""))
+  (lib (name Inverse)(type KiCad)(uri ${KIPRJMOD}/inverse.pretty)(options "")(descr ""))
 )
