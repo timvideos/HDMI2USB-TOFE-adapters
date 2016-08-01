@@ -17,7 +17,7 @@ OUTDIR=gerbers/$VERSION/
 mkdir $OUTDIR
 
 # Update the version embedded in the PCB
-sed -e"s/(gr_text [\$]Id[\$]/(gr_text \"$VERSION\"/" --in-place=.bak TOFEAdapter.kicad_pcb
+sed -e"s/(gr_text [\$]Desc[\$]/(gr_text \"$VERSION\"/" --in-place=.bak TOFEAdapter.kicad_pcb
 
 # Generate the gerber files
 python ../third_party/gen_gerber_and_drill_files_board.py TOFEAdapter.kicad_pcb $OUTDIR/
