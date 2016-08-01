@@ -18,103 +18,103 @@ $EndDescr
 Text Label 4950 8450 2    60   ~ 12
 GND
 Text Label 6200 2950 2    60   ~ 12
-A5
+IO_A0_P
 Text Label 6200 3050 2    60   ~ 12
-A6
+IO_A0_N
 Text Label 6200 3150 2    60   ~ 12
-A7
+IO_B0_P
 Text Label 6200 3250 2    60   ~ 12
-A8
+IO_B0_N
 Text Label 6100 3950 2    60   ~ 12
-A13
+CLK_X_P
 Text Label 6100 4050 2    60   ~ 12
-A14
+CLK_X_N
 Text Label 6100 4250 2    60   ~ 12
-A16
+IO_A1_P
 Text Label 6100 4350 2    60   ~ 12
-A17
+IO_A1_N
 Text Label 6100 4850 2    60   ~ 12
-A21
+IO_A2_P
 Text Label 6100 4950 2    60   ~ 12
-A22
+IO_A2_N
 Text Label 6100 5250 2    60   ~ 12
-A25
+IO_A3_P
 Text Label 6100 5350 2    60   ~ 12
-A26
+IO_A3_N
 Text Label 6100 5650 2    60   ~ 12
-A29
+CLK_A0_P
 Text Label 6100 5750 2    60   ~ 12
-A30
+CLK_A0_N
 Text Label 6100 6350 2    60   ~ 12
-A35
+IO_A4_P
 Text Label 4500 2200 0    60   ~ 12
 VCC3V3
 Text Label 5450 2200 2    60   ~ 12
 VCC12V
 Text Label 3300 4050 0    60   ~ 12
-B14
+IO_B1_P
 Text Label 3300 4150 0    60   ~ 12
-B15
+IO_B1_N
 Text Label 3350 4650 0    60   ~ 12
-B19
+IO_B2_P
 Text Label 3350 4750 0    60   ~ 12
-B20
+IO_B2_N
 Text Label 6100 4650 2    60   ~ 12
-A19
+IO_Y_P
 Text Label 3350 5150 0    60   ~ 12
-B24
+IO_B3_N
 Text Label 3350 5050 0    60   ~ 12
-B23
+IO_B3_P
 Text Label 3350 5550 0    60   ~ 12
-B28
+CLK_B0_N
 Text Label 3350 5450 0    60   ~ 12
-B27
+CLK_B0_P
 Text Label 3350 5750 0    60   ~ 12
-B30
+IO_Z_N
 Text Label 6100 5950 2    60   ~ 12
-A32
+IO_Z_P
 Text Label 3350 6250 0    60   ~ 12
-B34
+IO_B4_N
 Text Label 3350 6150 0    60   ~ 12
-B33
+IO_B4_P
 Text Label 3350 6650 0    60   ~ 12
-B38
+IO_B5_N
 Text Label 3350 6950 0    60   ~ 12
-B41
+IO_B6_P
 Text Label 6100 6750 2    60   ~ 12
-A39
+IO_A5_P
 Text Label 6100 6850 2    60   ~ 12
-A40
+IO_A5_N
 Text Label 6100 7250 2    60   ~ 12
-A44
+IO_A6_N
 Text Label 3350 7350 0    60   ~ 12
-B45
+CLK_B1_P
 Text Label 3300 3850 0    60   ~ 12
-B12
+IO_Y_N
 Text Label 6100 6450 2    60   ~ 12
-A36
+IO_A4_N
 Text Label 6000 3550 2    60   ~ 12
 RESET
 Text Label 3350 6550 0    60   ~ 12
-B37
+IO_B5_P
 Text Label 6100 7650 2    60   ~ 12
-A48
+CLK_A1_N
 Text Label 3350 7050 0    60   ~ 12
-B42
+IO_B6_N
 Text Label 3350 7450 0    60   ~ 12
-B46
+CLK_B1_N
 Text Label 3300 3050 0    60   ~ 12
-B6
+IDDAT
 Text Label 3300 2950 0    60   ~ 12
-B5
+IDCLK
 Text Label 3300 3350 0    60   ~ 12
-B9
+IO_X_P
 Text Label 3300 3550 0    60   ~ 12
-B11
+IO_X_N
 Text Label 6100 7550 2    60   ~ 12
-A47
+CLK_A1_P
 Text Label 6100 7150 2    60   ~ 12
-A43
+IO_A6_P
 Wire Wire Line
 	3900 2850 3800 2850
 Wire Wire Line
@@ -410,107 +410,107 @@ PRSTN
 Wire Wire Line
 	6200 2550 5600 2550
 Text Label 6100 6150 2    60   ~ 12
-A33
+IO1
 Wire Wire Line
 	5600 6150 6100 6150
 Text Label 9950 8450 2    60   ~ 12
 GND
 Text Label 11200 2950 2    60   ~ 12
-A5
+IO_A0_P
 Text Label 11200 3050 2    60   ~ 12
-A6
+IO_A0_N
 Text Label 11200 3150 2    60   ~ 12
-A7
+IO_B0_P
 Text Label 11200 3250 2    60   ~ 12
-A8
+IO_B0_N
 Text Label 11100 3950 2    60   ~ 12
-A13
+CLK_X_P
 Text Label 11100 4050 2    60   ~ 12
-A14
+CLK_X_N
 Text Label 11100 4250 2    60   ~ 12
-A16
+IO_A1_P
 Text Label 11100 4350 2    60   ~ 12
-A17
+IO_A1_N
 Text Label 11100 4850 2    60   ~ 12
-A21
+IO_A2_P
 Text Label 11100 4950 2    60   ~ 12
-A22
+IO_A2_N
 Text Label 11100 5250 2    60   ~ 12
-A25
+IO_A3_P
 Text Label 11100 5350 2    60   ~ 12
-A26
+IO_A3_N
 Text Label 11100 5650 2    60   ~ 12
-A29
+CLK_A0_P
 Text Label 11100 5750 2    60   ~ 12
-A30
+CLK_A0_N
 Text Label 11100 6350 2    60   ~ 12
-A35
+IO_A4_P
 Text Label 9500 2200 0    60   ~ 12
 VCC3V3
 Text Label 8300 4050 0    60   ~ 12
-B14
+IO_B1_P
 Text Label 8300 4150 0    60   ~ 12
-B15
+IO_B1_N
 Text Label 8350 4650 0    60   ~ 12
-B19
+IO_B2_P
 Text Label 8350 4750 0    60   ~ 12
-B20
+IO_B2_N
 Text Label 11100 4650 2    60   ~ 12
-A19
+IO_Y_P
 Text Label 8350 5150 0    60   ~ 12
-B24
+IO_B3_N
 Text Label 8350 5050 0    60   ~ 12
-B23
+IO_B3_P
 Text Label 8350 5550 0    60   ~ 12
-B28
+CLK_B0_N
 Text Label 8350 5450 0    60   ~ 12
-B27
+CLK_B0_P
 Text Label 8350 5750 0    60   ~ 12
-B30
+IO_Z_N
 Text Label 11100 5950 2    60   ~ 12
-A32
+IO_Z_P
 Text Label 8350 6250 0    60   ~ 12
-B34
+IO_B4_N
 Text Label 8350 6150 0    60   ~ 12
-B33
+IO_B4_P
 Text Label 8350 6650 0    60   ~ 12
-B38
+IO_B5_N
 Text Label 8350 6950 0    60   ~ 12
-B41
+IO_B6_P
 Text Label 11100 6750 2    60   ~ 12
-A39
+IO_A5_P
 Text Label 11100 6850 2    60   ~ 12
-A40
+IO_A5_N
 Text Label 11100 7250 2    60   ~ 12
-A44
+IO_A6_N
 Text Label 8350 7350 0    60   ~ 12
-B45
+CLK_B1_P
 Text Label 8300 3850 0    60   ~ 12
-B12
+IO_Y_N
 Text Label 11100 6450 2    60   ~ 12
-A36
+IO_A4_N
 Text Label 11000 3550 2    60   ~ 12
 RESET
 Text Label 8350 6550 0    60   ~ 12
-B37
+IO_B5_P
 Text Label 11100 7650 2    60   ~ 12
-A48
+CLK_A1_N
 Text Label 8350 7050 0    60   ~ 12
-B42
+IO_B6_N
 Text Label 8350 7450 0    60   ~ 12
-B46
+CLK_B1_N
 Text Label 8300 3050 0    60   ~ 12
-B6
+IDDAT
 Text Label 8300 2950 0    60   ~ 12
-B5
+IDCLK
 Text Label 8300 3350 0    60   ~ 12
-B9
+IO_X_P
 Text Label 8300 3550 0    60   ~ 12
-B11
+IO_X_N
 Text Label 11100 7550 2    60   ~ 12
-A47
+CLK_A1_P
 Text Label 11100 7150 2    60   ~ 12
-A43
+IO_A6_P
 Wire Wire Line
 	8900 2850 8800 2850
 Wire Wire Line
@@ -806,7 +806,7 @@ PRSTN
 Wire Wire Line
 	11200 2550 10600 2550
 Text Label 11100 6150 2    60   ~ 12
-A33
+IO1
 Wire Wire Line
 	10600 6150 11100 6150
 Text Label 10450 2200 2    60   ~ 12
