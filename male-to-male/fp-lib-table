@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name TOFE_8X_Pins)(type KiCad)(uri ${KIPRJMOD}/../libraries/TOFE_8X_Pins)(options "")(descr ""))
+  (lib (name Fixed)(type KiCad)(uri ${KIPRJMOD}/fixed.pretty)(options "")(descr ""))
 )
