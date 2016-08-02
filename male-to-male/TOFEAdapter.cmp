@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 27/10/2015 12:03:03 PM
+
+BeginCmp
+TimeStamp = /560CFB49;
+Reference = U1;
+ValeurCmp = TOFE-8X;
+IdModule  = TOFE_8X_Pins:TOFE_8X_Pins;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F177B;
+Reference = U2;
+ValeurCmp = TOFE-8X;
+IdModule  = TOFE_8X_Pins:TOFE_8X_Pins;
+EndCmp
+
+EndListe
