@@ -25,6 +25,11 @@ an Opsis board and a TOFE expansion board.
 
 FIXME: Put image here.
 
+# [Vertical](vertical)
+
+Adapter which uses a "straddle edge connector" to raise a board vertically.
+
+
 # [Male to Male](male-to-male)
 
 Adapter which has TOFE pins on both sides allowing two boards with TOFE sockets
