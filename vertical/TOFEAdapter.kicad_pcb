@@ -3,7 +3,7 @@
   (general
     (links 332)
     (no_connects 3)
-    (area 0 0 0 0)
+    (area 144.431 74.51882 200.010801 103.45898)
     (thickness 1.6)
     (drawings 12)
     (tracks 996)
@@ -627,7 +627,7 @@
     (pad "" smd rect (at -1.92618 -13.25088) (size 4 1) (layers F.Cu))
   )
 
-  (module Inverse:TOFE_8X_Pins (layer B.Cu) (tedit 5749066E) (tstamp 5764CD11)
+  (module "TOFE Straddle:TOFE_8X_straddle" (layer B.Cu) (tedit 5749066E) (tstamp 5764CD11)
     (at 148.50958 76.69052)
     (path /560CFB49)
     (fp_text reference U1 (at 0.98044 -0.9271) (layer B.SilkS)
