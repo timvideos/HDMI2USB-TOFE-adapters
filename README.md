@@ -23,7 +23,7 @@ Opsis board.
 These adapters where shipped as a bonus to crowd funding backers who purchased
 an Opsis board and a TOFE expansion board.
 
-FIXME: Put image here.
+![gerberlook.org render of left-angle adapter](left-angle/img/tofe-left-angle.png)
 
 # [Vertical](vertical)
 
