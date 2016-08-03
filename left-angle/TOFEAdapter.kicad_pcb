@@ -71,7 +71,7 @@
     (mod_text_width 0.15)
     (pad_size 0.65024 0.65024)
     (pad_drill 0)
-    (pad_to_mask_clearance 0.1524)
+    (pad_to_mask_clearance 0.1)
     (solder_mask_min_width 0.1524)
     (aux_axis_origin 0 0)
     (visible_elements 7FFFFF8B)
@@ -220,6 +220,7 @@
   (module TOFE_8X_Pins:TOFE_8X_Pins (layer F.Cu) (tedit 579F3D70) (tstamp 5628CEA6)
     (at 174.0154 188.1378)
     (path /560CFB49)
+    (solder_mask_margin -0.5)
     (fp_text reference U1 (at 0.98044 0.9271) (layer F.SilkS)
       (effects (font (size 1.016 1.016) (thickness 0.254)))
     )
@@ -4081,12 +4082,12 @@
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 225.4 182.4) (xy 225.4 188.3) (xy 173.9 188.3) (xy 173.9 182.4)
+        (xy 225.4 182.9) (xy 225.4 188.3) (xy 173.9 188.3) (xy 173.9 182.9)
       )
     )
     (filled_polygon
       (pts
-        (xy 225.273 188.173) (xy 174.027 188.173) (xy 174.027 182.527) (xy 225.273 182.527)
+        (xy 225.273 188.173) (xy 174.027 188.173) (xy 174.027 183.027) (xy 225.273 183.027)
       )
     )
   )
@@ -4096,12 +4097,12 @@
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 225.4 182.397795) (xy 225.4 188.297795) (xy 173.9 188.297795) (xy 173.9 182.397795)
+        (xy 225.4 182.9) (xy 225.4 188.297795) (xy 173.9 188.297795) (xy 173.9 182.9)
       )
     )
     (filled_polygon
       (pts
-        (xy 225.273 188.170795) (xy 174.027 188.170795) (xy 174.027 182.524795) (xy 225.273 182.524795)
+        (xy 225.273 188.170795) (xy 174.027 188.170795) (xy 174.027 183.027) (xy 225.273 183.027)
       )
     )
   )
