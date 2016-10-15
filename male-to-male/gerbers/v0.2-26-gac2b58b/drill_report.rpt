@@ -1,0 +1,22 @@
+Drill report for TOFEAdapter.kicad_pcb
+Created on Sat Oct 15 18:13:20 2016
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'TOFEAdapter.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.30mm  0.012"  (167 holes)
+
+    Total plated holes count 167
+
+
+Drill file 'TOFEAdapter-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
