@@ -3519,4 +3519,64 @@
       )
     )
   )
+  (zone (net 0) (net_name "") (layer B.Mask) (tstamp 0) (hatch edge 0.508)
+    (connect_pads (clearance 0.1524))
+    (min_thickness 0.254)
+    (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 148.45 76.35) (xy 199.8 76.35) (xy 199.8 82.3) (xy 148.45 82.3)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 199.673 82.173) (xy 148.577 82.173) (xy 148.577 76.477) (xy 199.673 76.477)
+      )
+    )
+  )
+  (zone (net 0) (net_name "") (layer B.Mask) (tstamp 5801C528) (hatch edge 0.508)
+    (connect_pads (clearance 0.1524))
+    (min_thickness 0.254)
+    (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 148.45 95.870043) (xy 199.8 95.870043) (xy 199.8 101.820043) (xy 148.45 101.820043)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 199.673 101.693043) (xy 148.577 101.693043) (xy 148.577 95.997043) (xy 199.673 95.997043)
+      )
+    )
+  )
+  (zone (net 0) (net_name "") (layer F.Mask) (tstamp 5801C55E) (hatch edge 0.508)
+    (connect_pads (clearance 0.1524))
+    (min_thickness 0.254)
+    (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 148.45 95.870043) (xy 199.8 95.870043) (xy 199.8 101.820043) (xy 148.45 101.820043)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 199.673 101.693043) (xy 148.577 101.693043) (xy 148.577 95.997043) (xy 199.673 95.997043)
+      )
+    )
+  )
+  (zone (net 0) (net_name "") (layer F.Mask) (tstamp 5801C55F) (hatch edge 0.508)
+    (connect_pads (clearance 0.1524))
+    (min_thickness 0.254)
+    (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 148.45 76.35) (xy 199.8 76.35) (xy 199.8 82.3) (xy 148.45 82.3)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 199.673 82.173) (xy 148.577 82.173) (xy 148.577 76.477) (xy 199.673 76.477)
+      )
+    )
+  )
 )
