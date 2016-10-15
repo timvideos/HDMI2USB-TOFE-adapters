@@ -69,8 +69,8 @@
     (grid_origin 148.5 101.8)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
-      (layerselection 0x00030_80000001)
-      (usegerberextensions false)
+      (layerselection 0x010f0_80000001)
+      (usegerberextensions true)
       (excludeedgelayer true)
       (linewidth 0.100000)
       (plotframeref false)
@@ -90,9 +90,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory gerbers/male-to-male/))
   )
 
   (net 0 "")
@@ -219,10 +219,10 @@
     (add_net /VCC3V3)
   )
 
-  (module Fixed:TOFE_8X_Pins (layer B.Cu) (tedit 5801C2F7) (tstamp 5764CD11)
+  (module Fixed:TOFE_8X_Pins (layer B.Cu) (tedit 5801C6F9) (tstamp 5764CD11)
     (at 149.111 79.72562)
     (path /560CFB49)
-    (fp_text reference U1 (at 0.635 3.76438) (layer B.SilkS)
+    (fp_text reference U1 (at 0.635 3.76438) (layer B.SilkS) hide
       (effects (font (size 1.016 1.016) (thickness 0.254)) (justify mirror))
     )
     (fp_text value "TOFE-8X Male to Male Adapter" (at 32.389 4.27438) (layer B.SilkS)
@@ -616,10 +616,10 @@
       (net 2 /GND))
   )
 
-  (module Fixed:TOFE_8X_Pins (layer F.Cu) (tedit 5801C2EF) (tstamp 5764CDD7)
+  (module Fixed:TOFE_8X_Pins (layer F.Cu) (tedit 5801C6EA) (tstamp 5764CDD7)
     (at 149.111 98.476)
     (path /562F177B)
-    (fp_text reference U2 (at 1.524 -4.318) (layer F.SilkS)
+    (fp_text reference U2 (at 1.524 -4.318) (layer F.SilkS) hide
       (effects (font (size 1.016 1.016) (thickness 0.254)))
     )
     (fp_text value "TOFE-8X Male to Male Adapter" (at 30.889 -14.476) (layer F.SilkS)
@@ -3525,12 +3525,12 @@
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 148.45 76.35) (xy 199.8 76.35) (xy 199.8 82.3) (xy 148.45 82.3)
+        (xy 148.442497 75.95) (xy 199.792497 75.95) (xy 199.792497 81.9) (xy 148.442497 81.9)
       )
     )
     (filled_polygon
       (pts
-        (xy 199.673 82.173) (xy 148.577 82.173) (xy 148.577 76.477) (xy 199.673 76.477)
+        (xy 199.665497 81.773) (xy 148.569497 81.773) (xy 148.569497 76.077) (xy 199.665497 76.077)
       )
     )
   )
@@ -3540,12 +3540,12 @@
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 148.45 95.870043) (xy 199.8 95.870043) (xy 199.8 101.820043) (xy 148.45 101.820043)
+        (xy 148.499393 96.35) (xy 199.849393 96.35) (xy 199.849393 102.3) (xy 148.499393 102.3)
       )
     )
     (filled_polygon
       (pts
-        (xy 199.673 101.693043) (xy 148.577 101.693043) (xy 148.577 95.997043) (xy 199.673 95.997043)
+        (xy 199.722393 102.173) (xy 148.626393 102.173) (xy 148.626393 96.477) (xy 199.722393 96.477)
       )
     )
   )
@@ -3555,12 +3555,12 @@
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 148.45 95.870043) (xy 199.8 95.870043) (xy 199.8 101.820043) (xy 148.45 101.820043)
+        (xy 148.45 96.35) (xy 199.8 96.35) (xy 199.8 102.3) (xy 148.45 102.3)
       )
     )
     (filled_polygon
       (pts
-        (xy 199.673 101.693043) (xy 148.577 101.693043) (xy 148.577 95.997043) (xy 199.673 95.997043)
+        (xy 199.673 102.173) (xy 148.577 102.173) (xy 148.577 96.477) (xy 199.673 96.477)
       )
     )
   )
@@ -3570,12 +3570,12 @@
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 148.45 76.35) (xy 199.8 76.35) (xy 199.8 82.3) (xy 148.45 82.3)
+        (xy 148.45 75.95) (xy 199.8 75.95) (xy 199.8 81.9) (xy 148.45 81.9)
       )
     )
     (filled_polygon
       (pts
-        (xy 199.673 82.173) (xy 148.577 82.173) (xy 148.577 76.477) (xy 199.673 76.477)
+        (xy 199.673 81.773) (xy 148.577 81.773) (xy 148.577 76.077) (xy 199.673 76.077)
       )
     )
   )
