@@ -46,7 +46,7 @@ popt.SetUseGerberAttributes(False)
 popt.SetUseGerberProtelExtensions(True)
 popt.SetExcludeEdgeLayer(False);
 popt.SetScale(1)
-popt.SetUseAuxOrigin(True)
+popt.SetUseAuxOrigin(False)
 
 # This by gerbers only (also the name is truly horrid!)
 popt.SetSubtractMaskFromSilk(False)
