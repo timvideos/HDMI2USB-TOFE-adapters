@@ -11,7 +11,7 @@ specification should be also compatible with the TOFE interface (but the
 reverse is not necessarily true).
 
 For [more information on the TOFE interface, see the HDMI2USB website](http://hdmi2usb.tv/tofe).
-See the [KiCad website](http://kicad-pcb.org/) for more information on using it.
+See the [KiCad website](http://kicad.org/) for more information on using it.
 
 More information about each board can be found in each directory.
 
@@ -40,7 +40,7 @@ FIXME: Put image here.
 ## Editing
 
 The designs in this repository was made using
-[KiCad](http://www.kicad-pcb.org/) version **4.0.2**.
+[KiCad](http://www.kicad.org/) version **4.0.2**.
 
 ## License
 
